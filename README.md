@@ -8,12 +8,14 @@ As a personalization software, we have focused heavily on learning about persona
 If you have any suggestions or want to contribute to the list, please check our contribution guidelines and don't hesitate to reach out. Let's continue to grow and improve this list together!
 
 ## Basics (start here)
+A great starting point for understanding key concepts in personalized marketing.
 
 - [What is personalized marketing?](https://mailchimp.com/marketing-glossary/personalized-marketing/)
 - [What is website personalization, and why should you implement it? A Complete Guide](https://croct.com/blog/post/what-is-website-personalization?utm_medium=repo&utm_source=github&utm_campaign=00000000.RE.EC.awesome_personalization)
 - [What is personalized marketing and why is machine learning an effective tool for it?](https://vwo.com/blog/what-is-personalized-marketing-and-why-is-machine-learning-an-effective-tool-for-it/)
 
 ## Strategies
+The technical and practical aspects of personalized marketing, with strategies and technologies to improve personalization.
 
 - [Recommender systems: behind the scenes of machine learning-based personalization](https://www.altexsoft.com/blog/recommender-system-personalization/)
 - [A headless CMS helps you achieve dynamic personalization for your e-commerce store](https://www.storyblok.com/mp/headless-cms-dynamic-personalization-ecommerce)
@@ -24,6 +26,7 @@ If you have any suggestions or want to contribute to the list, please check our 
 - [How to boost your ads performance and overcome marketing channel saturation](https://croct.com/blog/post/how-to-boost-your-ads-performance?utm_medium=repo&utm_source=github&utm_campaign=00000000.RE.EC.awesome_personalization)
 
 ## Inspiration
+A wide range of examples of effective personalized marketing techniques to help you boost your results.
 
 - [Artwork personalization at Netflix](https://netflixtechblog.com/artwork-personalization-c589f074ad76)
 - [9 best-in-class examples of product personalization](https://www.appcues.com/blog/personalized-product-examples)
@@ -32,6 +35,7 @@ If you have any suggestions or want to contribute to the list, please check our 
 - [Dynamic Yield inspiration library with 100+ personalization examples](https://www.dynamicyield.com/personalization-examples/)
 
 ## Guides
+Practical and actionable posts on implementing and optimizing personalized marketing strategies.
 
 - [How to use personalization to grow in 2022](https://www.demandcurve.com/playbooks/personalization-tactics)
 - [A complete guide to a powerful website personalization](https://youteam.io/blog/a-complete-guide-to-a-powerful-website-personalization/#Learning_the_fundamentals_of_website_personalization)
@@ -42,11 +46,13 @@ If you have any suggestions or want to contribute to the list, please check our 
 - [How to run AB tests with personalization](https://croct.com/blog/post/ab-tests-personalization?utm_medium=repo&utm_source=github&utm_campaign=00000000.RE.EC.awesome_personalization)
 
 ## Privacy
+Discussions on the critical topic of data privacy in personalized marketing.
 
 - [Zero-party data: what it is and why you should care](https://www.optimonk.com/zero-party-data/)
 - [Google ending third-party cookies in Chrome](https://www.cookiebot.com/en/google-third-party-cookies/)
 
 ## Books
+A selection of must-read books on personalized marketing.
 
 - [One-to-one personalization in the age of machine learning](https://a.co/d/ckRm6ez)
 - [Digital marketing strategy: an integrated approach to online marketing](https://a.co/d/gp9wv6U)
@@ -54,20 +60,24 @@ If you have any suggestions or want to contribute to the list, please check our 
 - [Personalization mechanics: targeted content for web teams of all sizes](https://a.co/d/fzmylve)
 
 ## Reports
+Discussions on the current state of personalized marketing, with the latest trends and developments in the industry.
 
 - [The state of personalization 2022](https://segment.com/state-of-personalization-report/)
 
 ## Podcasts
+Some of the best podcast episodes about personalized marketing, with a wealth of insights, interviews, and perspectives on the subject.
 
 - [Best 13 Podcast Episodes About Personalization](https://ninetailed.io/blog/podcast-episodes-about-personalization/)
 
 ## Tools
+The various tools and technologies that you can use to improve personalization.
 
 - [How to implement dynamic content on your website with PMS](https://croct.com/blog/post/how-to-implement-dynamic-content-pms?utm_medium=repo&utm_source=github&utm_campaign=00000000.RE.EC.awesome_personalization)
 - [7 website personalization tools to take a look at 2022](https://dinarys.com/blog/website-personalisation-tool)
 - [8 best marketing personalization tools for 2023](https://www.optimonk.com/best-marketing-personalization-tools/)
 
 ## Case studies
+Real-world examples of companies that have successfully implemented personalized marketing strategies.
 
 - [Algonomy](https://algonomy.com/resources/case-studies/)
 - [CleverTap](https://clevertap.com/resources/?ct_resources_category=Case%20Study)
@@ -76,6 +86,7 @@ If you have any suggestions or want to contribute to the list, please check our 
 - [Segmentify](https://www.segmentify.com/success-stories)
 
 ## Blogs
+A collection of top blogs on personalized marketing with the latest trends, strategies, and best practices.
 
 - [Croct](https://blog.croct.com?utm_medium=repo&utm_source=github&utm_campaign=00000000.RE.EC.awesome_personalization)
 - [Fresh Relevance](https://www.freshrelevance.com/blog/)
@@ -85,6 +96,7 @@ If you have any suggestions or want to contribute to the list, please check our 
 - [Web Engage](https://webengage.com/blog/)
 
 ## Vendors
+A list of leading companies that provide solutions and services for personalized marketing.
 
 - [Adobe Target](https://business.adobe.com/products/target/adobe-target.html)
 - [Algonomy](https://algonomy.com/)
